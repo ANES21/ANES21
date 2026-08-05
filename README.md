@@ -64,11 +64,7 @@ Student at Ibn Khaldoun Tiaret University
 
 ---
 
-## 📊 GitHub Analytics
-![Anes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANES21&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANES21&layout=compact&theme=radial)
 
----
 
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit_Website-brightgreen?style=for-the-badge)](https://portfolio-website-1me9.vercel.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=ANES21&color=0077B5)
