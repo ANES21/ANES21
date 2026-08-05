@@ -25,10 +25,10 @@ Student at Ibn Khaldoun Tiaret University
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=ANES21&icon=0&color=0)]([https://visitcount.itsvg.in](https://portfolio-website-1me9.vercel.app/))
+ 
 **# 💫 About Me
 🎓 **Student** at Ibn Khaldoun University, Tiaret  
-💻 **Passionate** about Software Development, Web Technologies & Data Science  
+💻 **Passionate** about Software Development, Web Technologies & Data Science; 
 
 ---
 
