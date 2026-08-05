@@ -37,7 +37,6 @@ Student at Ibn Khaldoun Tiaret University
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anes-abdo-6282872a9/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anes.abdo.751426)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AnesAbdo)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anesmokhtar88@gmail.com)
 
 ---
