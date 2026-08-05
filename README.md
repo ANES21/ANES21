@@ -1,4 +1,4 @@
-# 💫 About Me
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AnesAbdo)# 💫 About Me
 Student at Ibn Khaldoun Tiaret University
 
 ## 🌐 Socials
@@ -6,7 +6,8 @@ Student at Ibn Khaldoun Tiaret University
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anes.abdo.751426)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anes-abdo-6282872a9/)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AnesAbdo)
+
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anesmokhtar88@gmail.com)
 
 # 💻 Tech Stack
