@@ -39,12 +39,11 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-005571?style=for-the-badge&logo=unifiedmodelinglanguage&logoColor=white)
-
 ## 📈 GitHub Stats
 
 | GitHub Stats | Top Languages |
 | :-: | :-: |
-| ![Anes's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ANES21&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ANES21&layout=compact&theme=dark) |
+| ![Anes's GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=ANES21&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ANES21&layout=compact&theme=dark) |
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ANES21&color=0077B5&style=flat-square" alt="Profile Views" />
